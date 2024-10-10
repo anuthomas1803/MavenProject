@@ -1,9 +1,11 @@
 package hierarchichal;
 
 public class ChildB extends ParentA{
-	public void subs()
+	public void sub()
 	{
 		int d=a-b;
+		
+	
 		System.out.println("Difference is " +d);
 	}
 
@@ -11,7 +13,7 @@ public class ChildB extends ParentA{
 		// TODO Auto-generated method stub
 		ChildB obj3=new ChildB();
 		obj3.add();
-		obj3.subs();
+		obj3.sub();
 	
 
 	}
