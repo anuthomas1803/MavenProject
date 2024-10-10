@@ -9,7 +9,7 @@ public class Even {
 			if(i%2==0)
 			{
 			System.out.println(+i);
-			}
+			}     
 		}
 			
 		
