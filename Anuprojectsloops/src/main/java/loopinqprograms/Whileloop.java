@@ -7,6 +7,7 @@ public class Whileloop {
 	 while(x<=10)
 	 {
 
+	
 	  System.out.println(x);
 	  x++;
 	  }
