@@ -10,5 +10,6 @@ public static void main(String args[])
 	  x++;
 	  }
  while(x<=10);
+	
  }
  }
